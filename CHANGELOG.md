@@ -1,3 +1,7 @@
+## v1.0.3 / 2014-11-02
+
+ * ([fd5e284](https://github.com/tanem/grunt-ptor/commit/fd5e28446ebaaef0e495038ff3dcb9a2af962d25)) Fix Travis build errors
+
 ## v1.0.2 / 2014-11-02
 
  * ([22325ae](https://github.com/tanem/grunt-ptor/commit/22325ae1ee1f8882719787d7ff8e68f8b28a90a1)) Prune unused module
