@@ -39,7 +39,7 @@ module.exports = function(grunt) {
     args.unshift(configFile);
 
     // Locate protractor executable.
-    var cmd = path.join(__dirname, '../node_modules/.bin/protractor');
+    var cmd = path.join(require.resolve('protractor'), '../../bin/protractor');
 
     // Liftoff.
     grunt.util.spawn({
