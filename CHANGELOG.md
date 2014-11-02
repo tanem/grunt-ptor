@@ -1,3 +1,7 @@
+## v1.0.5 / 2014-11-03
+
+ * ([128dbca](https://github.com/tanem/grunt-ptor/commit/128dbcad28f95ebbf15f62d58940d453ca581802)) Correct location of Protractor executable
+
 ## v1.0.4 / 2014-11-02
 
  * ([f8ca3ac](https://github.com/tanem/grunt-ptor/commit/f8ca3ac8a8bb35e6aa2b8eb9b785fa77615d205f)) Make Grunt available to Travis
