@@ -1,5 +1,8 @@
 # grunt-ptor
 
+[![Build Status](https://travis-ci.org/tanem/grunt-ptor.png?branch=master)](https://travis-ci.org/tanem/grunt-ptor)
+[![NPM version](https://badge.fury.io/js/grunt-ptor.svg)](http://badge.fury.io/js/grunt-ptor)
+
 Run Protractor e2e tests.
 
 ## Why?
