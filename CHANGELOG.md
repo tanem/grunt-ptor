@@ -1,3 +1,7 @@
+## v1.0.4 / 2014-11-02
+
+ * ([f8ca3ac](https://github.com/tanem/grunt-ptor/commit/f8ca3ac8a8bb35e6aa2b8eb9b785fa77615d205f)) Make Grunt available to Travis
+
 ## v1.0.3 / 2014-11-02
 
  * ([fd5e284](https://github.com/tanem/grunt-ptor/commit/fd5e28446ebaaef0e495038ff3dcb9a2af962d25)) Fix Travis build errors
