@@ -1,3 +1,7 @@
+## v1.0.2 / 2014-11-02
+
+ * ([22325ae](https://github.com/tanem/grunt-ptor/commit/22325ae1ee1f8882719787d7ff8e68f8b28a90a1)) Prune unused module
+
 ## v1.0.1 / 2014-11-02
 
  * ([22ab974](https://github.com/tanem/grunt-ptor/commit/22ab9742fcc8ac3cd6574345e28b4f3f16cc3e10)) Add CHANGELOG
