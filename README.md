@@ -3,17 +3,15 @@
 [![Build Status](https://travis-ci.org/tanem/grunt-ptor.png?branch=master)](https://travis-ci.org/tanem/grunt-ptor)
 [![NPM version](https://badge.fury.io/js/grunt-ptor.svg)](http://badge.fury.io/js/grunt-ptor)
 
-Run Protractor e2e tests.
+Run [Protractor](https://github.com/angular/protractor) e2e tests.
 
-## Why?
+## Motivation
 
-Other plugins exist but they were either too complicated for what I wanted, or were not being maintained frequently and had a number of bugs and pull requests outstanding.
-
-This plugin leaves the Selenium server management up to another tool; I use [grunt-protractor-webdriver](https://www.npmjs.org/package/grunt-protractor-webdriver), which is then set up as a pre-requisite task to grunt-ptor.
+Other plugins exist, but I just wanted something simple that passed the required options through to the Protractor command.
 
 ## Getting Started
 
-This plugin requires Grunt `~0.4.5`
+This plugin requires Grunt `~0.4.5`.
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
@@ -26,6 +24,8 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 ```js
 grunt.loadNpmTasks('grunt-ptor');
 ```
+
+Note that this plugin leaves the Selenium server management up to another tool. I use [grunt-protractor-webdriver](https://www.npmjs.org/package/grunt-protractor-webdriver), which is then set up as a pre-requisite task to this plugin.
 
 ## The "ptor" task
 
@@ -91,7 +91,3 @@ A child process is spawned within each test so we can execute the task from end 
  * `post` sends the required information back to the parent process.
 
 This way we can test our expectations in the parent process.
-
-## Contributing
-
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
