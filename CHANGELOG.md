@@ -1,3 +1,7 @@
+## v1.0.6 / 2014-11-05
+
+ * ([fb273b3](https://github.com/tanem/grunt-ptor/commit/fb273b358b82ded39a3445f125176f87531b68c4)) Update README
+
 ## v1.0.5 / 2014-11-03
 
  * ([128dbca](https://github.com/tanem/grunt-ptor/commit/128dbcad28f95ebbf15f62d58940d453ca581802)) Correct location of Protractor executable
