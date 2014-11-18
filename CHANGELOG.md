@@ -1,3 +1,7 @@
+## v1.0.7 / 2014-11-19
+
+ * ([09829e8](https://github.com/tanem/grunt-ptor/commit/09829e80c999b3d2fdf1a8d2e9c1e02f3ccd341d)) Update README
+
 ## v1.0.6 / 2014-11-05
 
  * ([fb273b3](https://github.com/tanem/grunt-ptor/commit/fb273b358b82ded39a3445f125176f87531b68c4)) Update README
