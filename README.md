@@ -1,7 +1,11 @@
 # grunt-ptor
 
-[![Build Status](https://travis-ci.org/tanem/grunt-ptor.png?branch=master)](https://travis-ci.org/tanem/grunt-ptor)
-[![NPM version](https://badge.fury.io/js/grunt-ptor.svg)](http://badge.fury.io/js/grunt-ptor)
+[![build status](https://img.shields.io/travis/tanem/grunt-ptor/master.svg?style=flat-square)](https://travis-ci.org/tanem/grunt-ptor)
+[![npm version](https://img.shields.io/npm/v/grunt-ptor.svg?style=flat-square)](https://www.npmjs.com/package/grunt-ptor)
+[![npm downloads](https://img.shields.io/npm/dm/grunt-ptor.svg?style=flat-square)](https://www.npmjs.com/package/grunt-ptor)
+[![dependency status](https://david-dm.org/tanem/grunt-ptor.svg?style=flat-square)](https://david-dm.org/tanem/grunt-ptor)
+[![devDependency status](https://david-dm.org/tanem/grunt-ptor/dev-status.svg?style=flat-square)](https://david-dm.org/tanem/grunt-ptor#info=devDependencies)
+[![peerDependency status](https://david-dm.org/tanem/grunt-ptor/peer-status.svg?style=flat-square)](https://david-dm.org/tanem/grunt-ptor#info=peerDependencies)
 
 Run [Protractor](https://github.com/angular/protractor) e2e tests.
 
