@@ -1,5 +1,7 @@
 # grunt-ptor
 
+> **Unmaintained.** This project is no longer maintained and the repository is archived. The npm package is deprecated.
+
 [![build status](https://img.shields.io/travis/tanem/grunt-ptor/master.svg?style=flat-square)](https://travis-ci.org/tanem/grunt-ptor)
 [![npm version](https://img.shields.io/npm/v/grunt-ptor.svg?style=flat-square)](https://www.npmjs.com/package/grunt-ptor)
 [![npm downloads](https://img.shields.io/npm/dm/grunt-ptor.svg?style=flat-square)](https://www.npmjs.com/package/grunt-ptor)
